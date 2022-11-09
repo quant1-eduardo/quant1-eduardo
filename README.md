@@ -42,7 +42,7 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"
             width="40" height="40" /> </a> </p>
             
-            - 📫 How to reach me **talktokhushboogoel@gmail.com**
+            - 📫 How to reach me **eduardo@qtbit.com.br**
 
 - ⚡ Fun fact **I think I am funny XD**
 
